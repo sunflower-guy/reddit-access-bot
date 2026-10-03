@@ -1,11 +1,11 @@
 {
-  "keywords": [],
-  "readSubreddits": [],
-  "writeSubreddits": [],
+  "keywords": ["ai tools", "ai agent"],
+  "readSubreddits": ["AI_Agents", "AI_Application", "aipromptprogramming"],
+  "writeSubreddits": ["AI_Agents"],
   "pollIntervalMs": 600000,
   "maxReadRequestsPerDay": 1000,
   "minCommentIntervalMs": 7200000,
   "maxCommentsPerDay": 5,
   "readSource": "rss",
-  "userAgent": "reddit-access-bot/0.1 (personal non-commercial research; contact via Reddit account REPLACE_WITH_YOUR_USERNAME)"
+  "userAgent": "reddit-access-bot/0.1 (personal non-commercial research; contact via Reddit account millionaire_genie)"
 }
