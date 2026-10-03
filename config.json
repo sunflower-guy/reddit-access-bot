@@ -1,0 +1,11 @@
+{
+  "keywords": [],
+  "readSubreddits": [],
+  "writeSubreddits": [],
+  "pollIntervalMs": 600000,
+  "maxReadRequestsPerDay": 1000,
+  "minCommentIntervalMs": 7200000,
+  "maxCommentsPerDay": 5,
+  "readSource": "rss",
+  "userAgent": "reddit-access-bot/0.1 (personal non-commercial research; contact via Reddit account REPLACE_WITH_YOUR_USERNAME)"
+}
